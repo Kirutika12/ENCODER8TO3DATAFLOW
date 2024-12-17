@@ -63,7 +63,7 @@ Figure 02  Encoder 8 * 3
 ![Screenshot 2024-12-07 124004](https://github.com/user-attachments/assets/b12b810f-82f0-404b-8be4-48dd754ad5aa)
 
 ## **TIMING DIGRAMS FOR Encoder 8 To 3 in Dataflow Modelling**
-![Screenshot 2024-12-07 124858](https://github.com/user-attachments/assets/a5f19269-35be-4182-8cb6-35171999e53b)
+![Screenshot 2024-12-17 101221](https://github.com/user-attachments/assets/e7ad2b0a-77a1-4896-b9b9-9d21256067f8)
 
 ## **RESULTS**
 successfully implemented Encoder 8 To 3 in Dataflow Modelling using verilog and validated their functional tables
